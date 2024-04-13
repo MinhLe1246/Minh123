@@ -1,39 +1,13 @@
 {
-    "Brunei":
-       {
-      "city": "Brunei",
-      "lat": 4.5353,
-      "lng": 114.7277
-     },
      "Cambodia": {
       "city": "Cambodia",
       "lat": 12.5657,
       "lng": 104.991
      },
-     "Indonesia":{
-      "city": "Indonesia",
-      "lat": -0.789275,
-      "lng": 113.921327
-     },
      "Laos":{
       "city": "Laos",
       "lat": 19.8563,
       "lng": 102.4955
-     },
-     "Malaysia":{
-      "city": "Malaysia",
-      "lat": 3.139003,
-      "lng": 101.686855
-     },
-     "Myanmar":{
-      "city": "Myanmar",
-      "lat": 22.145,
-      "lng": 98.345
-     },
-     "Phillipines":{
-      "city": "Phillipines",
-      "lat": 20.7,
-      "lng": 126.6
      },
      "Singapore":{
       "city": "Singapore",
