@@ -1,56 +1,51 @@
 {
-    "Bru":
+    "Brunei":
        {
       "city": "Brunei",
       "lat": 4.5353,
       "lng": 114.7277
      },
-     "Cam": {
+     "Cambodia": {
       "city": "Cambodia",
       "lat": 12.5657,
       "lng": 104.991
      },
-     "Tim":{
-      "city": "East Timor",
-      "lat": 8.8742,
-      "lng": 125.7275
-     },
-     "Ind0":{
+     "Indonesia":{
       "city": "Indonesia",
-      "lat": 11,
-      "lng": 141
+      "lat": -0.789275,
+      "lng": 113.921327
      },
-     "Lao":{
+     "Laos":{
       "city": "Laos",
       "lat": 19.8563,
       "lng": 102.4955
      },
-     "Mal":{
+     "Malaysia":{
       "city": "Malaysia",
-      "lat": 7.3,
-      "lng": 119.3
+      "lat": 3.139003,
+      "lng": 101.686855
      },
-     "Mya":{
+     "Myanmar":{
       "city": "Myanmar",
-      "lat": 28.4,
-      "lng": 101.2
+      "lat": 22.145,
+      "lng": 98.345
      },
-     "Phi":{
+     "Phillipines":{
       "city": "Phillipines",
       "lat": 20.7,
       "lng": 126.6
      },
-     "Sin":{
+     "Singapore":{
       "city": "Singapore",
       "lat": 1.3521,
       "lng": 103.8198
      },
-     "Tha":{
+     "Thailan":{
       "city": "Thailan",
       "lat": 20.5,
       "lng": 105.6
      },
-     "Vie":{
+     "Vietnam":{
       "city": "Vietnam",
       "lat": 23.4,
       "lng": 109.5
