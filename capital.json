@@ -1,0 +1,58 @@
+{
+    "Bru":
+       {
+      "city": "Brunei",
+      "lat": 4.5353,
+      "lng": 114.7277
+     },
+     "Cam": {
+      "city": "Cambodia",
+      "lat": 12.5657,
+      "lng": 104.991
+     },
+     "Tim":{
+      "city": "East Timor",
+      "lat": 8.8742,
+      "lng": 125.7275
+     },
+     "Ind0":{
+      "city": "Indonesia",
+      "lat": 11,
+      "lng": 141
+     },
+     "Lao":{
+      "city": "Laos",
+      "lat": 19.8563,
+      "lng": 102.4955
+     },
+     "Mal":{
+      "city": "Malaysia",
+      "lat": 7.3,
+      "lng": 119.3
+     },
+     "Mya":{
+      "city": "Myanmar",
+      "lat": 28.4,
+      "lng": 101.2
+     },
+     "Phi":{
+      "city": "Phillipines",
+      "lat": 20.7,
+      "lng": 126.6
+     },
+     "Sin":{
+      "city": "Singapore",
+      "lat": 1.3521,
+      "lng": 103.8198
+     },
+     "Tha":{
+      "city": "Thailan",
+      "lat": 20.5,
+      "lng": 105.6
+     },
+     "Vie":{
+      "city": "Vietnam",
+      "lat": 23.4,
+      "lng": 109.5
+     }
+    }
